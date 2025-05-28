@@ -6,8 +6,7 @@
 2. instale vscode  
 3. faça uma conta no github  
 4. crie um repositório no github (não marque nenhuma caixinha durante a criação)  
-5. copie o link https que foi gerado (exemplo):  
-   `https://github.com/seu-usuario/nome-do-repositorio.git`  
+5. copie o link https que foi gerado (exemplo): `https://github.com/seu-usuario/nome-do-repositorio.git`  
 6. crie uma pasta no seu computador  
 7. abra a pasta com o vscode  
 8. no vscode, crie um novo arquivo `.md` (exemplo): `readme.md`  
