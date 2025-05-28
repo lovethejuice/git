@@ -12,7 +12,7 @@
 - abra a pasta com o vs code  
 - no vs code, crie um novo arquivo `.md` (exemplo: `readme.md`)  
 - dentro do arquivo, escreva alguma mensagem  
-- salve o arquivo (`ctrl + s`)  
+- salve o arquivo
 - abra o git bash  
 - verifique se o git está instalado:  
   `git --version`  
