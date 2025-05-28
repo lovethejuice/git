@@ -1,0 +1,1 @@
+olá, esse projeto serve para aplicar e listar alguns comandos do git.
