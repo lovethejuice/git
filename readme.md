@@ -8,7 +8,7 @@
 - instale o vs code  
 - faça uma conta no github
  
-### criando repositório no github e o arquivo local (projeto)   
+### criando o repositório no github e o arquivo local (projeto)   
 
 - crie um repositório no github (não marque nenhuma caixinha durante a criação)  
 - copie o link https que foi gerado (exemplo): `https://github.com/seu-usuario/nome-do-repositorio.git`  
@@ -18,10 +18,10 @@
 - dentro do arquivo .md, escreva alguma mensagem (exemplo: testando git e github) 
 - salve o arquivo (no vscode)
 
-### sincronizando o arquivo local (projeto) no repositório github
+### sincronizando o arquivo local (projeto) com o repositório github
 
 - abra o git bash e digite os seguintes comandos:
-- cd localdo/aquivo/
+- cd exemplo/localdo/arquivo/
 - git init
 - git config --global user.email "seuemail@exemplo.com"
 - git config --global user.name "Seu Nome"
@@ -38,4 +38,4 @@
 - salve o arquivo (no vscode)
 - git add .
 - git commit -m "segundo commit"
-- git push 
+- git push
