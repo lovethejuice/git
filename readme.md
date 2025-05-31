@@ -1,6 +1,6 @@
 # olá, esse projeto serve para listar alguns comandos do git
 
-## como criar um projeto no github
+## como criar um projeto no github:
 
 ### primeiros passos
 
@@ -14,8 +14,8 @@
 - copie o link https que foi gerado (exemplo): `https://github.com/seu-usuario/nome-do-repositorio.git`  
 - crie uma pasta no seu computador   
 - abra essa pasta com o vscode  
-- dentro do vscode, crie um novo arquivo `.md` (exemplo: `readme.md`)  
-- dentro do arquivo .md, escreva alguma mensagem (exemplo: testando git e github) 
+- dentro do vscode, crie um novo arquivo (exemplo: `readme.md`)  
+- dentro do arquivo, escreva alguma mensagem (exemplo: testando git e github) 
 - salve o arquivo (no vscode)
 
 ### sincronizando o arquivo local (projeto) com o repositório github
@@ -39,3 +39,12 @@
 - git add .
 - git commit -m "segundo commit"
 - git push
+ 
+## lista de comandos git
+
+| Comando                       | Função                                           |
+| ----------------------------- | ------------------------------------------------ |
+|  git init                     | Inicia um repositório Git vazio                  |
+|  git clone <url>              | Clona um repositório remoto                      |
+|  git config                   | Define configurações (nome, e-mail, editor etc.) |
+|  git remote add <nome> <url>  | Adiciona um repositório remoto (ex: GitHub)      |
